@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "cloud_writer_lib"
 include ':app'
+include ':cloud_writer'
